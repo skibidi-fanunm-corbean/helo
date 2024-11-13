@@ -1,0 +1,43 @@
+body{
+    background-color: #4C4B16;
+    font-family: Arial;
+    font-size: 1.25rem;
+    color: #1A1A1D;
+}
+a:link{
+    color: #1A1A1D;
+    
+}
+a:visited:link{
+    color: #1A1A1D
+}
+a:hover:link{
+    color: #001F3F;
+}
+.profilePic{
+    border-radius: 50%;
+    height: 400px;
+    width: 400px;
+}
+.profileAlignment{
+    padding-left: 20%;
+    padding-right: 20%;
+}
+.centerTable{
+    margin-left: auto;
+    margin-right: auto;
+}
+.linkCells{
+    padding: 10px;
+}
+.infoAlignment{
+    margin-left: auto;
+    margin-right: auto;
+}
+.headOneAlign{
+    text-align: center;
+}
+.imagePosition{
+    height: 15%;
+    width: 15%;
+}
